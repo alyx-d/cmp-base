@@ -1,0 +1,11 @@
+.gradle/
+build/
+**/build/
+.idea/
+*.iml
+.kotlin/
+.DS_Store
+local.properties
+captures/
+xcuserdata/
+*.hprof
